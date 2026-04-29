@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604291402567SEYEC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260429140256J03FH0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mantenimiento básico de motores de CA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>anams@educastur.org</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje del módulo 0240 Máquinas Eléctricas (FP Grado Medio). Incluye la creación por parte del alumnado de una infografía técnica y vídeo explicativo sobre mantenimiento básico de motores de corriente alterna.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777464132241</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mok091yl-8ajpt04pm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mantenimiento básico de motores de corriente alterna</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok091yl-8ajpt04pm</odePageId>
+      <odeBlockId>block-1777361512326-76x4gxn4y</odeBlockId>
+      <blockName>Descripción de la situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091yl-8ajpt04pm</odePageId>
+          <odeBlockId>block-1777361512326-76x4gxn4y</odeBlockId>
+          <odeIdeviceId>idevice-1777361512323-9sqvsps5r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se desarrolla en el módulo profesional <strong>Máquinas Eléctricas</strong> del <strong>segundo curso del ciclo Formativo de Grado Medio de Instalaciones Eléctricas y Automáticas</strong>. El alumnado, tras haber estudiado transformadores, máquinas de corriente continua y fundamentos de máquinas rotativas, trabajará ahora el mantenimiento básico de motores de corriente alterna (CA).</p>
+<p><img src="{{context_path}}/content/resources/motores.jpeg" width="253" height="199" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Durante <strong>cuatro sesiones</strong>, el alumnado elaborará dos productos digitales:</p>
+<ul>
+<li>Una infografía interactiva sobre las operaciones esenciales de mantenimiento en motores de CA.</li>
+<li>Un vídeo o podcast explicando de forma clara y práctica cómo realizar dichas comprobaciones.</li>
+</ul>
+<p>Ambos productos se realizarán con herramientas digitales accesibles (Genially, Canva, Clipchamp, Audacity, etc.). La docente realizará además una evaluación final breve sobre bobinados, debido a la proximidad del periodo de exámenes.</p>
+<h1>Etapa, nivel y módulo</h1>
+<ul>
+<li>Formación Profesional – Grado Medio</li>
+<li>2.º de Instalaciones Eléctricas y Automáticas</li>
+<li>Módulo: Máquinas Eléctricas</li>
+</ul>
+<h1>Agrupamientos y organización espacial</h1>
+<ul>
+<li>Trabajo en grupos de 2-3 alumnos/as.</li>
+<li>Aula-taller ELE3 (aula de referencia de la asignatura) para explicación, análisis y grabación del vídeo.</li>
+<li>Aula ELE2 o préstamo de portátiles para creación digital</li>
+</ul>
+<h1>Temporalización</h1>
+<p>4 sesiones de 2 horas.</p>
+<h1>Productos del alumnado</h1>
+<ul>
+<li>Infografía interactiva: “Mantenimiento esencial de motores de CA”.</li>
+<li>Vídeo: “Cómo realizar el mantenimiento básico de un motor de CA”.</li>
+</ul>
+<h1>Herramientas tecnológicas</h1>
+<ul>
+<li>Canva, eXeLearning</li>
+<li>Teléfono móvil para grabar</li>
+<li>Teams</li>
+<li>Recursos complementarios: vídeos técnicos, placas de características</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777361512323-9sqvsps5r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se desarrolla en el módulo profesional <strong>Máquinas Eléctricas</strong> del <strong>segundo curso del ciclo Formativo de Grado Medio de Instalaciones Eléctricas y Automáticas</strong>. El alumnado, tras haber estudiado transformadores, máquinas de corriente continua y fundamentos de máquinas rotativas, trabajará ahora el mantenimiento básico de motores de corriente alterna (CA).</p>\n<p><img src=\"{{context_path}}/content/resources/motores.jpeg\" width=\"253\" height=\"199\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Durante <strong>cuatro sesiones</strong>, el alumnado elaborará dos productos digitales:</p>\n<ul>\n<li>Una infografía interactiva sobre las operaciones esenciales de mantenimiento en motores de CA.</li>\n<li>Un vídeo o podcast explicando de forma clara y práctica cómo realizar dichas comprobaciones.</li>\n</ul>\n<p>Ambos productos se realizarán con herramientas digitales accesibles (Genially, Canva, Clipchamp, Audacity, etc.). La docente realizará además una evaluación final breve sobre bobinados, debido a la proximidad del periodo de exámenes.</p>\n<h1>Etapa, nivel y módulo</h1>\n<ul>\n<li>Formación Profesional – Grado Medio</li>\n<li>2.º de Instalaciones Eléctricas y Automáticas</li>\n<li>Módulo: Máquinas Eléctricas</li>\n</ul>\n<h1>Agrupamientos y organización espacial</h1>\n<ul>\n<li>Trabajo en grupos de 2-3 alumnos/as.</li>\n<li>Aula-taller ELE3 (aula de referencia de la asignatura) para explicación, análisis y grabación del vídeo.</li>\n<li>Aula ELE2 o préstamo de portátiles para creación digital</li>\n</ul>\n<h1>Temporalización</h1>\n<p>4 sesiones de 2 horas.</p>\n<h1>Productos del alumnado</h1>\n<ul>\n<li>Infografía interactiva: “Mantenimiento esencial de motores de CA”.</li>\n<li>Vídeo: “Cómo realizar el mantenimiento básico de un motor de CA”.</li>\n</ul>\n<h1>Herramientas tecnológicas</h1>\n<ul>\n<li>Canva, eXeLearning</li>\n<li>Teléfono móvil para grabar</li>\n<li>Teams</li>\n<li>Recursos complementarios: vídeos técnicos, placas de características</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok091yv-kbpio8c6l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok091yv-kbpio8c6l</odePageId>
+      <odeBlockId>block-moib2ymw-sepn05uc0</odeBlockId>
+      <blockName>Justificación e impacto esperado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091yv-kbpio8c6l</odePageId>
+          <odeBlockId>block-moib2ymw-sepn05uc0</odeBlockId>
+          <odeIdeviceId>idevice-moib2ymw-cw11kf4db</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta situación de aprendizaje se plantea para que el alumnado de 2.º de Instalaciones Eléctricas y Automáticas adquiera una comprensión clara y aplicable del mantenimiento básico de motores de corriente alterna, una competencia esencial en su futuro profesional.</p>
+<p style="text-align: justify;">El trabajo con infografías y vídeos permite que el alumnado interprete, explique y comunique procedimientos técnicos reales, integrando la competencia digital con los Resultados de Aprendizaje del módulo Máquinas Eléctricas, especialmente el RA5 (Mantiene y repara máquinas eléctricas).</p>
+<p>El impacto esperado es que el alumnado:</p>
+<ul>
+<li>Comprenda la importancia del mantenimiento preventivo en la industria.</li>
+<li>Sea capaz de identificar síntomas de avería y relacionarlos con causas probables.</li>
+<li>Desarrolle autonomía técnica y capacidad de comunicación profesional.</li>
+<li>Utilice herramientas digitales para representar información técnica de forma clara y accesible.</li>
+<li>Aplique criterios de seguridad y calidad en el análisis de máquinas eléctricas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-moib2ymw-cw11kf4db","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta situación de aprendizaje se plantea para que el alumnado de 2.º de Instalaciones Eléctricas y Automáticas adquiera una comprensión clara y aplicable del mantenimiento básico de motores de corriente alterna, una competencia esencial en su futuro profesional.</p>\n<p style=\"text-align: justify;\">El trabajo con infografías y vídeos permite que el alumnado interprete, explique y comunique procedimientos técnicos reales, integrando la competencia digital con los Resultados de Aprendizaje del módulo Máquinas Eléctricas, especialmente el RA5 (Mantiene y repara máquinas eléctricas).</p>\n<p>El impacto esperado es que el alumnado:</p>\n<ul>\n<li>Comprenda la importancia del mantenimiento preventivo en la industria.</li>\n<li>Sea capaz de identificar síntomas de avería y relacionarlos con causas probables.</li>\n<li>Desarrolle autonomía técnica y capacidad de comunicación profesional.</li>\n<li>Utilice herramientas digitales para representar información técnica de forma clara y accesible.</li>\n<li>Aplique criterios de seguridad y calidad en el análisis de máquinas eléctricas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mok091yv-kbpio8c6l</odePageId>
+      <odeBlockId>block-1777363926320-tkbk3ttl8</odeBlockId>
+      <blockName>Relación con los ODS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091yv-kbpio8c6l</odePageId>
+          <odeBlockId>block-1777363926320-tkbk3ttl8</odeBlockId>
+          <odeIdeviceId>idevice-1777363926319-dgsixrec7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><img src="{{context_path}}/content/resources/ods4.png" width="66" height="66" alt="" /> ODS 4 — Educación de calidad</h1>
+<p>El alumnado desarrolla competencias técnicas, digitales y comunicativas mediante la creación de productos digitales (infografía y vídeo), promoviendo un aprendizaje significativo y aplicable al entorno laboral.</p>
+<h1> <br /><img src="{{context_path}}/content/resources/ods7.jpg" width="66" height="66" alt="" /> ODS 7 — Energía asequible y no contaminante</h1>
+<p>Un mantenimiento adecuado de motores eléctricos reduce pérdidas, evita sobrecalentamientos y mejora la eficiencia energética de las instalaciones, contribuyendo a un uso responsable de la energía.</p>
+<h1> <br /><img src="{{context_path}}/content/resources/ods9.jpg" width="66" height="66" alt="" /> ODS 9 — Industria, innovación e infraestructura</h1>
+<p>El alumnado trabaja con procedimientos reales de mantenimiento industrial, comprendiendo cómo se garantiza la fiabilidad de máquinas e infraestructuras eléctricas en entornos productivos.</p>
+<h1> <br /><img src="{{context_path}}/content/resources/ods12.jpg" width="66" height="66" alt="" /> ODS 12 — Producción y consumo responsables</h1>
+<p>El mantenimiento preventivo prolonga la vida útil de los motores, reduce residuos y evita sustituciones innecesarias, fomentando prácticas sostenibles en el ámbito profesional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777363926319-dgsixrec7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><img src=\"{{context_path}}/content/resources/ods4.png\" width=\"66\" height=\"66\" alt=\"\" /> ODS 4 — Educación de calidad</h1>\n<p>El alumnado desarrolla competencias técnicas, digitales y comunicativas mediante la creación de productos digitales (infografía y vídeo), promoviendo un aprendizaje significativo y aplicable al entorno laboral.</p>\n<h1> <br /><img src=\"{{context_path}}/content/resources/ods7.jpg\" width=\"66\" height=\"66\" alt=\"\" /> ODS 7 — Energía asequible y no contaminante</h1>\n<p>Un mantenimiento adecuado de motores eléctricos reduce pérdidas, evita sobrecalentamientos y mejora la eficiencia energética de las instalaciones, contribuyendo a un uso responsable de la energía.</p>\n<h1> <br /><img src=\"{{context_path}}/content/resources/ods9.jpg\" width=\"66\" height=\"66\" alt=\"\" /> ODS 9 — Industria, innovación e infraestructura</h1>\n<p>El alumnado trabaja con procedimientos reales de mantenimiento industrial, comprendiendo cómo se garantiza la fiabilidad de máquinas e infraestructuras eléctricas en entornos productivos.</p>\n<h1> <br /><img src=\"{{context_path}}/content/resources/ods12.jpg\" width=\"66\" height=\"66\" alt=\"\" /> ODS 12 — Producción y consumo responsables</h1>\n<p>El mantenimiento preventivo prolonga la vida útil de los motores, reduce residuos y evita sustituciones innecesarias, fomentando prácticas sostenibles en el ámbito profesional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok091z3-8ag715cr5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok091z3-8ag715cr5</odePageId>
+      <odeBlockId>block-1777372058180-wyx6c9yfk</odeBlockId>
+      <blockName>Competencias profesionales, personales y sociales del título</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091z3-8ag715cr5</odePageId>
+          <odeBlockId>block-1777372058180-wyx6c9yfk</odeBlockId>
+          <odeIdeviceId>idevice-1777372058177-079or0so0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA contribuye especialmente a las competencias asociadas a:</p>
+<ul>
+<li>El mantenimiento y reparación de máquinas eléctricas.</li>
+<li>La elaboración de documentación técnica.</li>
+<li>La aplicación de procedimientos de diagnóstico y localización de averías.</li>
+<li>El uso adecuado de herramientas, instrumentos y técnicas de mantenimiento.</li>
+<li>El cumplimiento de normas de seguridad, calidad y prevención de riesgos.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777372058177-079or0so0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA contribuye especialmente a las competencias asociadas a:</p>\n<ul>\n<li>El mantenimiento y reparación de máquinas eléctricas.</li>\n<li>La elaboración de documentación técnica.</li>\n<li>La aplicación de procedimientos de diagnóstico y localización de averías.</li>\n<li>El uso adecuado de herramientas, instrumentos y técnicas de mantenimiento.</li>\n<li>El cumplimiento de normas de seguridad, calidad y prevención de riesgos.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mok091z3-8ag715cr5</odePageId>
+      <odeBlockId>block-1777372174048-b71183fg9</odeBlockId>
+      <blockName>Resultados de Aprendizaje implicados</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091z3-8ag715cr5</odePageId>
+          <odeBlockId>block-1777372174048-b71183fg9</odeBlockId>
+          <odeIdeviceId>idevice-1777372174045-oy8wvsdpv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h6>RA5. Mantiene y repara máquinas eléctricas realizando comprobaciones y ajustes para la puesta en servicio.</h6>
+<p>Es el RA central de esta SdA, ya que el alumnado debe comprender y comunicar las operaciones básicas de mantenimiento de motores de corriente alterna.</p>
+<h6>RA1. Elabora documentación técnica de máquinas eléctricas relacionando símbolos normalizados y representando gráficamente elementos y procedimientos.<br /></h6>
+<p>Este RA se trabaja mediante la creación de la infografía y del vídeo, que constituyen documentación técnica digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777372174045-oy8wvsdpv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h6>RA5. Mantiene y repara máquinas eléctricas realizando comprobaciones y ajustes para la puesta en servicio.</h6>\n<p>Es el RA central de esta SdA, ya que el alumnado debe comprender y comunicar las operaciones básicas de mantenimiento de motores de corriente alterna.</p>\n<h6>RA1. Elabora documentación técnica de máquinas eléctricas relacionando símbolos normalizados y representando gráficamente elementos y procedimientos.<br /></h6>\n<p>Este RA se trabaja mediante la creación de la infografía y del vídeo, que constituyen documentación técnica digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mok091z3-8ag715cr5</odePageId>
+      <odeBlockId>block-1777372285249-98wuqnk9y</odeBlockId>
+      <blockName>Criterios de Evaluacion</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091z3-8ag715cr5</odePageId>
+          <odeBlockId>block-1777372285249-98wuqnk9y</odeBlockId>
+          <odeIdeviceId>idevice-1777372285248-woxa7touu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h6>Criterios del RA5:</h6>
+<p>a) Se han clasificado averías características y sus síntomas en máquinas eléctricas definiendo para cada caso los procedimientos adecuados de actuación.<br />b) Se han utilizado medios y equipos de medida adecuados al proceso de localización de averías.<br />c) Se ha localizado la avería y propuesto posibles soluciones.<br />d) Se ha desarrollado un plan de trabajo para la reparación de averías que incluye la redacción de procedimientos para llevar a cabo mantenimientos predictivos y correctivos.<br />e) Se han realizado medidas eléctricas para la localización de averías.<br />f) Ha reparado la avería y elaborado un informe descriptivo de la misma.<br />g) Se ha verificado el funcionamiento de la máquina por medio de ensayos.<br />i) Se han respetado los tiempos previstos en los procesos.<br />j) Se han respetado criterios de calidad.</p>
+<h6><br />Criterios del RA1:</h6>
+<p>f) Se ha redactado diferente documentación técnica.<br />g) Han analizado documentos convencionales de mantenimiento de máquinas y se han elaborado procedimientos de actuación para cada tipo.<br />i) Ha realizado un proceso de trabajo sobre mantenimiento de máquinas eléctricas, teniendo en cuenta las peculiaridades de cada tipo y modelo, distinguiendo entre las de CA y CC.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777372285248-woxa7touu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h6>Criterios del RA5:</h6>\n<p>a) Se han clasificado averías características y sus síntomas en máquinas eléctricas definiendo para cada caso los procedimientos adecuados de actuación.<br />b) Se han utilizado medios y equipos de medida adecuados al proceso de localización de averías.<br />c) Se ha localizado la avería y propuesto posibles soluciones.<br />d) Se ha desarrollado un plan de trabajo para la reparación de averías que incluye la redacción de procedimientos para llevar a cabo mantenimientos predictivos y correctivos.<br />e) Se han realizado medidas eléctricas para la localización de averías.<br />f) Ha reparado la avería y elaborado un informe descriptivo de la misma.<br />g) Se ha verificado el funcionamiento de la máquina por medio de ensayos.<br />i) Se han respetado los tiempos previstos en los procesos.<br />j) Se han respetado criterios de calidad.</p>\n<h6><br />Criterios del RA1:</h6>\n<p>f) Se ha redactado diferente documentación técnica.<br />g) Han analizado documentos convencionales de mantenimiento de máquinas y se han elaborado procedimientos de actuación para cada tipo.<br />i) Ha realizado un proceso de trabajo sobre mantenimiento de máquinas eléctricas, teniendo en cuenta las peculiaridades de cada tipo y modelo, distinguiendo entre las de CA y CC.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok091zb-tibzh26e5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok091zb-tibzh26e5</odePageId>
+      <odeBlockId>block-1777460372990-u365mf1xq</odeBlockId>
+      <blockName>Aprendizaje cooperativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091zb-tibzh26e5</odePageId>
+          <odeBlockId>block-1777460372990-u365mf1xq</odeBlockId>
+          <odeIdeviceId>idevice-1777460372987-hora9esnz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La metodología utilizada en esta situación de aprendizaje es aprendizaje cooperativo. El aprendizaje cooperativo consiste en que el alumnado trabaja en equipo para desarrollar una tarea, asumiendo cada integrante un rol y una responsabilidad concreta. Esta metodología favorece la comunicación, la organización del trabajo y la elaboración conjunta de productos.</p>
+<p>En esta SdA, el aprendizaje cooperativo se aplica de forma estructurada, ya que todo el trabajo se realiza en parejas, lo que permite:</p>
+<ul>
+<li>reparto equilibrado de tareas</li>
+<li>toma de decisiones conjunta</li>
+<li>apoyo mutuo en la comprensión de los procedimientos de mantenimiento</li>
+<li>mejora de la calidad de los productos digitales</li>
+<li>desarrollo de habilidades profesionales propias del entorno laboral (coordinación, comunicación técnica, responsabilidad compartida).</li>
+</ul>
+<p style="text-align: justify;">Esta metodología es adecuada para Formación Profesional porque reproduce dinámicas reales del sector eléctrico, donde el trabajo en equipo es habitual en tareas de mantenimiento, diagnóstico y documentación técnica. Además, permite trabajar de forma directa los Resultados de Aprendizaje, especialmente:</p>
+<ul>
+<li style="text-align: justify;">RA5: mantenimiento y comprobaciones en máquinas eléctricas.</li>
+<li style="text-align: justify;">RA1: elaboración de documentación técnica.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777460372987-hora9esnz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La metodología utilizada en esta situación de aprendizaje es aprendizaje cooperativo. El aprendizaje cooperativo consiste en que el alumnado trabaja en equipo para desarrollar una tarea, asumiendo cada integrante un rol y una responsabilidad concreta. Esta metodología favorece la comunicación, la organización del trabajo y la elaboración conjunta de productos.</p>\n<p>En esta SdA, el aprendizaje cooperativo se aplica de forma estructurada, ya que todo el trabajo se realiza en parejas, lo que permite:</p>\n<ul>\n<li>reparto equilibrado de tareas</li>\n<li>toma de decisiones conjunta</li>\n<li>apoyo mutuo en la comprensión de los procedimientos de mantenimiento</li>\n<li>mejora de la calidad de los productos digitales</li>\n<li>desarrollo de habilidades profesionales propias del entorno laboral (coordinación, comunicación técnica, responsabilidad compartida).</li>\n</ul>\n<p style=\"text-align: justify;\">Esta metodología es adecuada para Formación Profesional porque reproduce dinámicas reales del sector eléctrico, donde el trabajo en equipo es habitual en tareas de mantenimiento, diagnóstico y documentación técnica. Además, permite trabajar de forma directa los Resultados de Aprendizaje, especialmente:</p>\n<ul>\n<li style=\"text-align: justify;\">RA5: mantenimiento y comprobaciones en máquinas eléctricas.</li>\n<li style=\"text-align: justify;\">RA1: elaboración de documentación técnica.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok091ze-lu8e20ibv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok091ze-lu8e20ibv</odePageId>
+      <odeBlockId>block-1777460620700-0gjdlt5pf</odeBlockId>
+      <blockName>Vinculación con los proyectos y Programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091ze-lu8e20ibv</odePageId>
+          <odeBlockId>block-1777460620700-0gjdlt5pf</odeBlockId>
+          <odeIdeviceId>idevice-1777460620697-gmlmzvdnu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje se vincula con dos líneas institucionales del IES Fernández Vallín (curso 2025‑2026):</p>
+<h1>1. Plan Digital del Centro<br /></h1>
+<p>La SdA integra el uso de herramientas digitales para la elaboración de una infografía técnica y un vídeo explicativo, contribuyendo al desarrollo de la competencia digital del alumnado y a la integración de recursos TIC en los procesos de enseñanza y aprendizaje.</p>
+<h1>2. Formación Profesional de Calidad</h1>
+<p>La SdA se alinea con la línea estratégica del centro de impulsar una Formación Profesional flexible, innovadora y orientada a la empleabilidad. El trabajo en parejas, la elaboración de documentación técnica y el análisis de procedimientos reales de mantenimiento responden directamente a este objetivo institucional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777460620697-gmlmzvdnu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje se vincula con dos líneas institucionales del IES Fernández Vallín (curso 2025‑2026):</p>\n<h1>1. Plan Digital del Centro<br /></h1>\n<p>La SdA integra el uso de herramientas digitales para la elaboración de una infografía técnica y un vídeo explicativo, contribuyendo al desarrollo de la competencia digital del alumnado y a la integración de recursos TIC en los procesos de enseñanza y aprendizaje.</p>\n<h1>2. Formación Profesional de Calidad</h1>\n<p>La SdA se alinea con la línea estratégica del centro de impulsar una Formación Profesional flexible, innovadora y orientada a la empleabilidad. El trabajo en parejas, la elaboración de documentación técnica y el análisis de procedimientos reales de mantenimiento responden directamente a este objetivo institucional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok091zj-0d4mcxgna</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok091zj-0d4mcxgna</odePageId>
+      <odeBlockId>block-1777461177496-y4rv8a2r0</odeBlockId>
+      <blockName>Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091zj-0d4mcxgna</odePageId>
+          <odeBlockId>block-1777461177496-y4rv8a2r0</odeBlockId>
+          <odeIdeviceId>idevice-1777461177493-3vwmcapxu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En relación con esta situación de aprendizaje, no se consideran necesarias actividades complementarias ni extraescolares específicas, dado que los objetivos se alcanzan íntegramente mediante el trabajo en el aula y en el taller del propio centro.</p>
+<p style="text-align: justify;">No obstante, si el departamento lo estima oportuno, esta SdA podría vincularse en el futuro a:</p>
+<ul>
+<li style="text-align: justify;">Visitas a empresas del sector eléctrico que se dediquen a mantenimiento y bobinado de motores.</li>
+<li style="text-align: justify;">Jornadas técnicas o demostraciones de mantenimiento industrial</li>
+<li style="text-align: justify;">Otras actividades organizadas por el departamento de Electricidad y Electrónica.</li>
+</ul>
+<p style="text-align: justify;">Sin embargo en el presente diseño, no se programan actividades complementarias ni extraescolares asociadas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777461177493-3vwmcapxu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En relación con esta situación de aprendizaje, no se consideran necesarias actividades complementarias ni extraescolares específicas, dado que los objetivos se alcanzan íntegramente mediante el trabajo en el aula y en el taller del propio centro.</p>\n<p style=\"text-align: justify;\">No obstante, si el departamento lo estima oportuno, esta SdA podría vincularse en el futuro a:</p>\n<ul>\n<li style=\"text-align: justify;\">Visitas a empresas del sector eléctrico que se dediquen a mantenimiento y bobinado de motores.</li>\n<li style=\"text-align: justify;\">Jornadas técnicas o demostraciones de mantenimiento industrial</li>\n<li style=\"text-align: justify;\">Otras actividades organizadas por el departamento de Electricidad y Electrónica.</li>\n</ul>\n<p style=\"text-align: justify;\">Sin embargo en el presente diseño, no se programan actividades complementarias ni extraescolares asociadas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mok091zn-c3d7sydkx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Atribución y fichero descargable.</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mok091zn-c3d7sydkx</odePageId>
+      <odeBlockId>block-1777461837246-t0520v4gm</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mok091zn-c3d7sydkx</odePageId>
+          <odeBlockId>block-1777461837246-t0520v4gm</odeBlockId>
+          <odeIdeviceId>idevice-1777461837244-t11mgssph</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Mantenimiento básico de motores de CA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje del módulo 0240 Máquinas Eléctricas (FP Grado Medio). Incluye la creación por parte del alumnado de una infografía técnica y vídeo explicativo sobre mantenimiento básico de motores de corriente alterna.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">anams@educastur.org</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
